@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "869437902166",
+    "project_id": "flutterlab-firebase-7ed5e",
+    "storage_bucket": "flutterlab-firebase-7ed5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869437902166:android:a777ca388445110ac05af7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869437902166-rq8lt2cdq9e9raot61hue2lclni8maki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKkdF5Y_UPsh1pbDJBxDGaXp52de0G8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869437902166-rq8lt2cdq9e9raot61hue2lclni8maki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869437902166-cc64s142cclbhc2s0n20259qbv03r4sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLabFirebas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869437902166:android:5be9481339f20de8c05af7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab_firebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869437902166-rq8lt2cdq9e9raot61hue2lclni8maki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKkdF5Y_UPsh1pbDJBxDGaXp52de0G8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869437902166-rq8lt2cdq9e9raot61hue2lclni8maki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869437902166-cc64s142cclbhc2s0n20259qbv03r4sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLabFirebas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
